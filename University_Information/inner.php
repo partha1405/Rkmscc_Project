@@ -1,5 +1,0 @@
-<html>
-<body>
-<h1>RAMAKRISHNA MISSION SHILPA MANDIRA COMPUTER CENTRE</h1>
-</body>
-</html>
